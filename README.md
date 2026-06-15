@@ -4,7 +4,7 @@ In [this chapter](https://neuraldatascience.io/3-python/introduction.html), we w
 By the end of this chapter, you should be able to:
 
 - understand and use variables
-
+blablabla
 - work with common Python data types like integers, floats, strings, characters, lists, dictionaries, as well as pandas DataFrames
 
 - use basic flow control, including for loops and conditionals
